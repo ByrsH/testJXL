@@ -1,1 +1,3 @@
-这是一个在学习Jav操作Excel表格时的练习，本仓库的主要是测试使用jxl库
+这是一个在学习Jav操作Excel表格时的练习，本仓库的主要内容是测试使用jxl库
+
+我的博客：[http://blog.csdn.net/u010657094/article/category/5909607](http://blog.csdn.net/u010657094/article/category/5909607)有更多相关学习的知识。
