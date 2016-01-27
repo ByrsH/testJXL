@@ -1,0 +1,3 @@
+1，使用Workbook.createWorkbook(OutputStream os,Workbook in) 创建工作簿时，出现问题。
+
+2，在WritableWorkbook 类中的方法importSheet 使用时，文件内容会没有。

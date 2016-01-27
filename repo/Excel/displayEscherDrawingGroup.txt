@@ -1,0 +1,7 @@
+f000 - Dgg Container
+  f006 - Dgg
+  f001 - BStore Container
+    f007 - Bse
+  f00b - Opt (value, stringValue): 
+
+
